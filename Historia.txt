@@ -3,3 +3,5 @@ Historia Sarasasa
 Nueva version 2.0
 
 Agregando otro renglon.
+
+Hoy es Viernes.
